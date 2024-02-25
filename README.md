@@ -1,4 +1,4 @@
-### WikiDesk - Desktop Wiki Browser!
+# WikiDesk - Desktop Wiki Browser!
 ## What it can do
 With wiki desk, you can search through Wikis' from Wikipedia (https://www.wikipedia.org/) or Fandom Wikis' (https://www.fandom.com)
 ## How to use
