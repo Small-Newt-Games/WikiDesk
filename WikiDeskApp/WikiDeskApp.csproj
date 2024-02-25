@@ -94,6 +94,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="logo.ico" />
+    <Content Include="ScreenShots\wikidesk-finder.png" />
+    <Content Include="ScreenShots\wikidesk-home.png" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
