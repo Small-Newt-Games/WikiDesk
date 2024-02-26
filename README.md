@@ -2,7 +2,7 @@
 ## What it can do
 With wiki desk, you can search through Wikis' from Wikipedia (https://www.wikipedia.org/) or Fandom Wikis' (https://www.fandom.com)
 ## How to use
-WikiDesk is currently unreleased but source code is currently avaliable
+[View the wiki for instructions](https://github.com/Small-Newt-Games/WikiDesk/wiki/The-Basics-of-WikiDesk)
 ## Screenshots
 ### Home Page
 ![WikiDesk Home Page](/WikiDeskApp/ScreenShots/wikidesk-home.png "WikiDesk Home Page")
