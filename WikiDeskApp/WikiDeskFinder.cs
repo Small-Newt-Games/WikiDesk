@@ -76,15 +76,15 @@ namespace WikiDeskApp
             System.Diagnostics.Process.Start(this.webBrowser1.Url.ToString());
 
             //Disable button and add success text
-            this.button2.Text = "Opened In Browser Successfully!";
-            this.button2.Enabled = false;
+            this.button3.Text = "Opened In Browser Successfully!";
+            this.button3.Enabled = false;
 
             //Sleep
             Thread.Sleep(4000);
 
             //Enable button and remove success text
-            this.button2.Text = "Opened In Browser Successfully!";
-            this.button2.Enabled = false;
+            this.button3.Text = "Open Page in Browser";
+            this.button3.Enabled = true;
 
         }
 

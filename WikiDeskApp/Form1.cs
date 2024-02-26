@@ -40,6 +40,11 @@ namespace WikiDeskApp
                 //Hides the current window
                 this.Hide();
             }
+            else
+            {
+                //Show popup with the description of 'Please select an option' and the title of 'Error!'
+                System.Windows.Forms.MessageBox.Show("Please select an option", "Error!");
+            }
         }
     }
 }
