@@ -118,7 +118,6 @@
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "WikiDeskFinder";
             this.Text = "WikiDesk Finder";
-            this.Load += new System.EventHandler(this.WikiDeskFinder_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
